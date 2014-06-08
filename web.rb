@@ -7,5 +7,5 @@ end
 
 get '/animals.json' do
   content_type :json
-  {:animal => ["elephant", "cat", "dog"]}.to_json
+  {:animals => ["elephant", "cat", "dog"]}.to_json
 end
