@@ -69,7 +69,7 @@ get '/' do
   send_file 'index.html'
 end
 
-get '/customer' do
+get '/customers' do
   return_message = {}
 
   if customers
@@ -84,7 +84,7 @@ get '/customer' do
   return_message.to_json
 end
 
-get '/customer/:id' do
+get '/customers/:id' do
   return_message = {}
   result = []
 
@@ -104,7 +104,7 @@ get '/customer/:id' do
   return_message.to_json
 end
 
-get '/order' do
+get '/orders' do
   return_message = {}
   result = []
 
