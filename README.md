@@ -1,3 +1,7 @@
 ## Victor's First Ruby App
 
-TDD with Ruby, Sinatra and Travis, all deployed into a Heroku instance. I merely followed this tutorial: http://goo.gl/L0cTVf
+Travis CI Status: [![Build Status](https://travis-ci.org/devacto/ruby-firstapp.svg?branch=master)](https://travis-ci.org/devacto/ruby-firstapp)
+
+TDD with Ruby, Sinatra and Travis, all deployed into a Heroku instance. 
+
+I merely followed this tutorial: http://goo.gl/L0cTVf
