@@ -5,3 +5,5 @@ Travis CI Status: [![Build Status](https://travis-ci.org/devacto/ruby-firstapp.s
 TDD with Ruby, Sinatra and Travis, all deployed into a Heroku instance. 
 
 I merely followed this tutorial: http://goo.gl/L0cTVf
+
+Example Heroku URL: http://vast-taiga-6915.herokuapp.com/customers/1
