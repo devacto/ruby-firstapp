@@ -6,4 +6,4 @@ Ruby, Sinatra and Travis, deployed into a Heroku instance.
 
 I merely followed this tutorial: http://goo.gl/L0cTVf
 
-Example Heroku URL: http://vast-taiga-6915.herokuapp.com/customers/1
+Example Heroku URL: http://victor-first-ruby-app.herokuapp.com/customers/1
